@@ -28,4 +28,3 @@ while True:
 
 password = generate_password(length)
 print(f"La tua password casuale è: {password}")
-        
